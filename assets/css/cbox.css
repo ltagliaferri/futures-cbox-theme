@@ -154,6 +154,7 @@ html body .top-wrap .sub-menu {
 	bottom: 0;
 	position: absolute;
 	width: inherit;
+    background: #000;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }

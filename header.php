@@ -17,6 +17,7 @@
 <!--[if IE 8 ]>        <html <?php language_attributes(); ?> class="no-js ie8"> <![endif]-->
 <!--[if IE 9 ]>        <html <?php language_attributes(); ?> class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html <?php language_attributes(); ?> class="no-js"> <!--<![endif]-->
+<head><link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/wp-content/favicon.ico" /></head>
 <?php
 	infinity_get_template_part( 'templates/parts/header-head');	
 ?>

@@ -25,6 +25,8 @@ if ( post_password_required() ) { ?><p class="nocomments"><?php _e('This post is
  
  // You can start editing here -- including this comment!
  
+
+
 ?>
 <div id="comments">
 <?php
